@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.tomer:fadingtextview:2.5] /Users/anas/.gradle/caches/transforms-1/files-1.1/fadingtextview-2.5.aar/4ddbae886c2713c92df1b5c578599159/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:design:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/4f19e75f8e4eddb779fe9e02d5452967/AndroidManifest.xml:17:1-24:12
+MERGED from [com.luolc:emoji-rain:0.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/emoji-rain-0.1.1.aar/823b29ede4661eb46630e7a99b033bbf/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/000ddb4e8dff15f384608af69c3fcdc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8c317f236f9de927f56817250c753709/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b759e42cd9e21a1983344bd2fcc856ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8b539658bc7bad8973881a5dbca6c5f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/504ff1b1e19e899200962a84724a3d8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/81968cf2e2aad1f6d7389d1094bb5b9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/6cca9ee4babcad319304210a62b0bb3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/cd5c3242b08e9583367fa1ba7c6163f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f4a2305f3ed4dfd1a5f34546e6800d82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:25.1.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/percent-25.1.0.aar/0c7c4ccc70595dd8117813d55cf24286/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:loader:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5f8e3105ab0f8d35efcbc59f1bcbe217/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/96564706ff63beb7eeb90922f3197b1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b41a4a0e1f6894e500368951aa038c33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/160fbd9ef94ca95e1bc0ca3b7504db66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/917dadedd4ea04fdd9ce9232a8c7a075/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/49a977a75e36524938896898318080bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/dd64a2e67f6cb64230b83c0f0bec9463/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9913534aa263b936d243c57f233b5bde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b13ffd9f3161f0d8800e007a978720c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e9b6f8164d5c4402a7f74f43cb6c4aa7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2039f3b295dc079b4d29a2f4c5b98372/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/344c7ea2e0d729f1f9ceab598822ab61/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3ee1b4bdc102155b057c30b4554eab69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a08ad72b5901673531b8c78785da5c87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4d4c00f64dfc5d13324cd1e1816fe14b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3422320eb027758315683dafba961756/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2dfa8f1d70e9af9f6254ac44ccb3e78f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b9952d9a7fe799d08036312913c2b5ce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d1434b15346c232ede9278a487400391/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4c900304a76dcdf4908f1edc3590c1d0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/31f436046e17af986fd042aaa8b53d13/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/742cdcbc57a47a08d75986ef54690cb5/AndroidManifest.xml:15:1-21:12
+INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:3:5-22
+		INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:5:5-34:19
+MERGED from [com.android.support:design:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/4f19e75f8e4eddb779fe9e02d5452967/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/4f19e75f8e4eddb779fe9e02d5452967/AndroidManifest.xml:22:5-20
+MERGED from [com.luolc:emoji-rain:0.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/emoji-rain-0.1.1.aar/823b29ede4661eb46630e7a99b033bbf/AndroidManifest.xml:11:5-15:19
+MERGED from [com.luolc:emoji-rain:0.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/emoji-rain-0.1.1.aar/823b29ede4661eb46630e7a99b033bbf/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8c317f236f9de927f56817250c753709/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8c317f236f9de927f56817250c753709/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:percent:25.1.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/percent-25.1.0.aar/0c7c4ccc70595dd8117813d55cf24286/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:percent:25.1.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/percent-25.1.0.aar/0c7c4ccc70595dd8117813d55cf24286/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b13ffd9f3161f0d8800e007a978720c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b13ffd9f3161f0d8800e007a978720c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e9b6f8164d5c4402a7f74f43cb6c4aa7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e9b6f8164d5c4402a7f74f43cb6c4aa7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b13ffd9f3161f0d8800e007a978720c/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:11:9-40
+activity#dnd.dnd.Splash
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:theme
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:13:13-63
+	android:name
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:12:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:17:27-74
+activity#dnd.dnd.final_page
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:20:9-48
+	android:name
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:20:19-45
+activity#dnd.dnd.quiz_page5
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:21:9-48
+	android:name
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:21:19-45
+activity#dnd.dnd.quiz_page4
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:22:9-48
+	android:name
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:22:19-45
+activity#dnd.dnd.quiz_page3
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:23:9-48
+	android:name
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:23:19-45
+activity#dnd.dnd.quiz_page2
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:24:9-48
+	android:name
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:24:19-45
+activity#dnd.dnd.quiz_page1
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:25:9-48
+	android:name
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:25:19-45
+activity#dnd.dnd.crush_name
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:26:9-48
+	android:name
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:26:19-45
+activity#dnd.dnd.LoginActivity
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:27:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:28:13-32:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml:31:27-73
+uses-sdk
+INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+MERGED from [com.tomer:fadingtextview:2.5] /Users/anas/.gradle/caches/transforms-1/files-1.1/fadingtextview-2.5.aar/4ddbae886c2713c92df1b5c578599159/AndroidManifest.xml:6:5-8:41
+MERGED from [com.tomer:fadingtextview:2.5] /Users/anas/.gradle/caches/transforms-1/files-1.1/fadingtextview-2.5.aar/4ddbae886c2713c92df1b5c578599159/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/4f19e75f8e4eddb779fe9e02d5452967/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/4f19e75f8e4eddb779fe9e02d5452967/AndroidManifest.xml:20:5-44
+MERGED from [com.luolc:emoji-rain:0.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/emoji-rain-0.1.1.aar/823b29ede4661eb46630e7a99b033bbf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.luolc:emoji-rain:0.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/emoji-rain-0.1.1.aar/823b29ede4661eb46630e7a99b033bbf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/000ddb4e8dff15f384608af69c3fcdc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/000ddb4e8dff15f384608af69c3fcdc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8c317f236f9de927f56817250c753709/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8c317f236f9de927f56817250c753709/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b759e42cd9e21a1983344bd2fcc856ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b759e42cd9e21a1983344bd2fcc856ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8b539658bc7bad8973881a5dbca6c5f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8b539658bc7bad8973881a5dbca6c5f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/504ff1b1e19e899200962a84724a3d8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/504ff1b1e19e899200962a84724a3d8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/81968cf2e2aad1f6d7389d1094bb5b9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/81968cf2e2aad1f6d7389d1094bb5b9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/6cca9ee4babcad319304210a62b0bb3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/6cca9ee4babcad319304210a62b0bb3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/cd5c3242b08e9583367fa1ba7c6163f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/cd5c3242b08e9583367fa1ba7c6163f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f4a2305f3ed4dfd1a5f34546e6800d82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/f4a2305f3ed4dfd1a5f34546e6800d82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:25.1.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/percent-25.1.0.aar/0c7c4ccc70595dd8117813d55cf24286/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:percent:25.1.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/percent-25.1.0.aar/0c7c4ccc70595dd8117813d55cf24286/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:loader:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5f8e3105ab0f8d35efcbc59f1bcbe217/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5f8e3105ab0f8d35efcbc59f1bcbe217/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/96564706ff63beb7eeb90922f3197b1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/96564706ff63beb7eeb90922f3197b1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b41a4a0e1f6894e500368951aa038c33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b41a4a0e1f6894e500368951aa038c33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/160fbd9ef94ca95e1bc0ca3b7504db66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/160fbd9ef94ca95e1bc0ca3b7504db66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/917dadedd4ea04fdd9ce9232a8c7a075/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/917dadedd4ea04fdd9ce9232a8c7a075/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/49a977a75e36524938896898318080bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/49a977a75e36524938896898318080bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/dd64a2e67f6cb64230b83c0f0bec9463/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/dd64a2e67f6cb64230b83c0f0bec9463/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9913534aa263b936d243c57f233b5bde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9913534aa263b936d243c57f233b5bde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b13ffd9f3161f0d8800e007a978720c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8b13ffd9f3161f0d8800e007a978720c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e9b6f8164d5c4402a7f74f43cb6c4aa7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e9b6f8164d5c4402a7f74f43cb6c4aa7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2039f3b295dc079b4d29a2f4c5b98372/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2039f3b295dc079b4d29a2f4c5b98372/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/344c7ea2e0d729f1f9ceab598822ab61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/344c7ea2e0d729f1f9ceab598822ab61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3ee1b4bdc102155b057c30b4554eab69/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3ee1b4bdc102155b057c30b4554eab69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a08ad72b5901673531b8c78785da5c87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a08ad72b5901673531b8c78785da5c87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4d4c00f64dfc5d13324cd1e1816fe14b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4d4c00f64dfc5d13324cd1e1816fe14b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3422320eb027758315683dafba961756/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3422320eb027758315683dafba961756/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2dfa8f1d70e9af9f6254ac44ccb3e78f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2dfa8f1d70e9af9f6254ac44ccb3e78f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b9952d9a7fe799d08036312913c2b5ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/anas/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b9952d9a7fe799d08036312913c2b5ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d1434b15346c232ede9278a487400391/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d1434b15346c232ede9278a487400391/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4c900304a76dcdf4908f1edc3590c1d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4c900304a76dcdf4908f1edc3590c1d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/31f436046e17af986fd042aaa8b53d13/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/31f436046e17af986fd042aaa8b53d13/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/742cdcbc57a47a08d75986ef54690cb5/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/anas/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/742cdcbc57a47a08d75986ef54690cb5/AndroidManifest.xml:19:5-43
+INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anas/Downloads/1DND-master-2/app/src/main/AndroidManifest.xml

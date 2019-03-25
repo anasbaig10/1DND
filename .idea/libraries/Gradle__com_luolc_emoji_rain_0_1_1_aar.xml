@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.luolc:emoji-rain:0.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/emoji-rain-0.1.1.aar/823b29ede4661eb46630e7a99b033bbf/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/emoji-rain-0.1.1.aar/823b29ede4661eb46630e7a99b033bbf/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.luolc/emoji-rain/0.1.1/7bb5ffad13a1313579ddcd786b4fe90d0b3413b9/emoji-rain-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
